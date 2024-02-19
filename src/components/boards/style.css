@@ -1,0 +1,14 @@
+.h-8 {
+    height: 2rem;
+}
+
+.board-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 1rem;
+}
+
+.board-item {
+    padding: 1rem;
+    background-color: aqua;
+}
